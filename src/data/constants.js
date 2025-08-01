@@ -497,6 +497,7 @@ export const Bio = {
   { year: 2022, text: "Learned Basic C/C++, Arduino Programming" },
   { year: 2023, text: "Started Learning Python" },
   { year: 2023, text: "Shared my projects with the world" },
-  { year: 2024, text: "Started Data Structures And Algorithms." }
+  { year: 2024, text: "Started Data Structures and Algorithms" },
+  { year: 2025, text: "Built real-world cloud & IoT projects; focused on placement prep" }
 ];
   
