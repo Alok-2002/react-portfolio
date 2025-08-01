@@ -438,7 +438,7 @@ export const Bio = {
     },
     {
       id: 7,
-      title: "Smart Alcohal Detection And Engine Locking System",
+      title: "Smart Alcohol Detection And Engine Locking System",
       date: "August 2023 - November 2023",
       description:
         "The Smart Alcohol Detection and Engine Locking System is an innovative project aimed at enhancing road safety by preventing alcohol-impaired driving. This repository contains the complete details, documentation, and source code for building and implementing the system.",
@@ -452,13 +452,13 @@ export const Bio = {
         {
           name: "Alok Sharma",
           img: "https://avatars.githubusercontent.com/u/139451198?s=400&u=b83a23378aa74f2ea19af8f91d52f4914c9d5e98&v=4",
-          linkedin: "https://www.linkedin.com/in/alok-sharma2002-/",
+          linkedin: "https://www.linkedin.com/in/alok-sharma2002/",
           github: "https://github.com/alok-2002/",
         },
         {
           name: "Sanskriti Yadav",
           img: "https://avatars.githubusercontent.com/u/139451838?s=400&u=1c4239c0f0ef6aae4d6a077d736a2da5bfdc4e01&v=4",
-          linkedin: "https://www.linkedin.com/in/Sanskriti-Yadav/",
+          linkedin: "https://www.linkedin.com/in/alok-sharma2002/",
           github: "https://github.com/sanskriti-yadav",
         },
       ],
